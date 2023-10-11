@@ -9,3 +9,4 @@ Table of contents:
 2. Data preparation
 3. Machine learning methods
 4. Simple neural network
+5. Multilayer perceptron
