@@ -15,3 +15,4 @@ Table of contents:
 8. LSTM
 9. Autoencoders
 10. Transformers
+11. GANs
